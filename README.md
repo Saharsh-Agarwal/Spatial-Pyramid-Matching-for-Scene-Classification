@@ -1,5 +1,5 @@
 # Spatial Pyramid Matching for Scene Classification
- Classical method - Filtering and KNN (followed by Spacial Pyramiding and TF-IDF)
+ Classical method - Filtering and KNN on Bag of Visual Words (followed by Spacial Pyramiding and TF-IDF)
 
 This is a part of the work I have done during my Masters @CMU. The Problem Statement is from a course -> (16-720B) Computer Vision. Results were achieved under the guidance of Prof. Deva Kannan Ramanan and his Teaching Assistants. 
 
